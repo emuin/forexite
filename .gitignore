@@ -4,5 +4,6 @@
 /bin/
 *.test
 *.swp
-/download/*
-/output/*
+/download/*.zip
+/download/*.txt
+/output/*.csv
